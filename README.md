@@ -13,7 +13,7 @@ We use **EEG data from human patients under general anesthesia** collected in **
 ### Results
 LDCM incorporates **switching mechanisms** to improve estimation accuracy over SS-Coh models.
 
-![LDCM Results](path/to/ldcm_results.png) <!-- Placeholder for LDCM results image -->
+![LDCM Results](Latent%20Dynamic%20Coherence%20Model%20-%20EMBC%2023/imgs/img3.png)
 
 ## 2. State Space Coherence (SS-Coh)
 
