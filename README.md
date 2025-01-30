@@ -26,7 +26,7 @@ Similar to LDCM, SS-Coh utilizes **EEG data from patients under general anesthes
 ### Results
 Applying SS-GCoh to anesthesia data shows **functional circuit changes associated with consciousness states**.
 
-![SS-Coh Results](path/to/sscoh_results.png) <!-- Placeholder for SS-Coh results image -->
+![SS-Coh Results](https://raw.githubusercontent.com/reza-sf9/brain_signal_analysis/main/State%20Space%20Coherence/imgs/sscoh.jpg)
 
 ### Implementation
 To reproduce these results, run the provided **GMM code** to obtain functional modes corresponding to different consciousness states.
@@ -46,7 +46,7 @@ EEG data was recorded in **14-minute sessions** using a **20-channel dry-electro
 ### Results
 Task-switching analysis reveals that distinct **functional circuits emerge during different cognitive tasks**.
 
-![Switching Dynamic Results](path/to/switching_results.png) <!-- Placeholder for switching dynamic results image -->
+![Switching Dynamic Results](https://raw.githubusercontent.com/reza-sf9/brain_signal_analysis/main/Switching%20Dynamic/imgs/cluster_analysis.jpg)
 
 ### Implementation
 Run the **main code** to obtain **task-specific functional clusters**.
