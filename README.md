@@ -28,8 +28,7 @@ Applying SS-GCoh to anesthesia data shows **functional circuit changes associate
 
 ![SS-Coh Results](https://raw.githubusercontent.com/reza-sf9/brain_signal_analysis/main/State%20Space%20Coherence/imgs/sscoh.jpg)
 
-### Implementation
-To reproduce these results, run the provided **GMM code** to obtain functional modes corresponding to different consciousness states.
+
 
 ## 3. Switching Dynamic
 
@@ -48,13 +47,8 @@ Task-switching analysis reveals that distinct **functional circuits emerge durin
 
 ![Switching Dynamic Results](https://raw.githubusercontent.com/reza-sf9/brain_signal_analysis/main/Switching%20Dynamic/imgs/cluster_analysis.jpg)
 
-### Implementation
-Run the **main code** to obtain **task-specific functional clusters**.
 
 ## Contributors
 - **Reza Saadati Fard**
 - **Collaborators from Emery Brown’s Laboratory**
 
-## References
-1. Purdon et al., "Anesthesia and EEG coherence," *Nature Neuroscience*, 2019.
-2. Brown et al., "State-space modeling in brain signals," *Journal of Neuroscience Methods*, 2020.
